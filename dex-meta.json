@@ -1,0 +1,12 @@
+{
+  "name": "UNIT DEX LAUNCH",
+  "symbol": "DEXLCH",
+  "description": "UNIT DEX LAUNCH",
+  "image": "https://raw.githubusercontent.com/unitecosystem/UnitDexLaunch/main/DEXLaunch512.png",
+  "creator": {
+    "name": "UNIT DEX LAUNCH",
+    "site": "https://dex.unit.network/coin"
+  },
+  "seller_fee_basis_points": 0,
+  "creators": null
+}
